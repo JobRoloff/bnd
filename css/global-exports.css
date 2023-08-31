@@ -1,0 +1,4 @@
+/* global styling for each page */
+
+@import url(./color.module.css);
+@import url(./typography.module.css);
